@@ -4,3 +4,4 @@ const producto = (a,b)=>{
 }
 
 let pr = producto(12,45); 
+let nombre=prompt("ingrese su nombre");
